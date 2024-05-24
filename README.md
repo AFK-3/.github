@@ -10,7 +10,7 @@
 ## Payment
 
 ### Payment Code Diagram
-![PaymentCodeDiagram](<Payment/PaymentUMLDiagram.png>)
+![PaymentCodeDiagram](<DeliverableAdrian/PaymentUMLDiagram.png>)
 
 ### Payment Component Diagram
-![PaymentComponentDiagram](<Payment/PaymentComponentDiagram.png>)
+![PaymentComponentDiagram](<DeliverableAdrian/PaymentComponentDiagram.png>)
