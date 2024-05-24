@@ -51,8 +51,8 @@ Untuk code diagram sell adalah sebagai berikut
 
 ## Featured Listing
 
-### Buy Component Diagram
-![Component Diagram - Buy](<DeliverableRafi/Featured Listing - Component Diagram.png>)
+### Featured Listing Component Diagram
+![Featured Listing - Component Diagram](<DeliverableRafi/Featured Listing - Component Diagram.png>)
 
-### Buy Code Diagram
-![Code Diagram - Buy](<DeliverableRafi/Featured Listing - Code Diagram.png>)
+### Featured Listing Code Diagram
+![Featured Listing - Code Diagram](<DeliverableRafi/Featured Listing - Code Diagram.png>)
