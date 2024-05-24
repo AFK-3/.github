@@ -8,9 +8,9 @@
 ![DeploymentDiagram](<DeliverableG1/DeploymentDiagram.JPG>)
 
 
-## Deliverable Individu Kenichi Komala 2206081452
+## Sell
 
-### Component Diagram
+### Sell Component Diagram
 Berikut adalah diagram untuk keseluruhan hubungan komponen sell dan authenticate 
 ![componentdiagramauthsell](<DelivarableKenichiKomala/componentdiagramauthsell.jpg>)
 
@@ -21,12 +21,12 @@ Berikut adalah diagram untuk komponen pada fitur auth saja
 
 ![componentdiagramauth](<DelivarableKenichiKomala/componentdiagramauth.jpg>)
 
-### Code diagram
+### Sell Code diagram
 Untuk code diagram auth adalah sebagai berikut 
-![componentdiagramauth](<DelivarableKenichiKomala/codediagramauth.jpg>)
+![codediagramauth](<DelivarableKenichiKomala/codediagramauth.jpg>)
 
 Untuk code diagram sell adalah sebagai berikut 
-![componentdiagramauth](<DelivarableKenichiKomala/codediagramsell.jpg>)
+![codediagramsell](<DelivarableKenichiKomala/codediagramsell.png>)
 
 ## Payment
 
