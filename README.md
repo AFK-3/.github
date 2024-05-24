@@ -63,3 +63,11 @@ Untuk code diagram sell adalah sebagai berikut
 
 ### Featured Listing Code Diagram
 ![Featured Listing - Code Diagram](<DeliverableRafi/Featured Listing - Code Diagram.png>)
+
+## StaffDashboard
+
+### StaffDashboard Component Diagram
+![StaffDashboard - Component Diagram](<DelivarableMHilmyAA/ComponentDiagramStaffDashboard.png>)
+
+### StaffDashboard Code Diagram
+![StaffDashboard - Component Diagram](<DelivarableMHilmyAA/CodeDiagramStaffDashboard.png>)
