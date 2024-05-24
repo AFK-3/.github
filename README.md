@@ -6,7 +6,11 @@
 ![Container Diagram](<DeliverableG1/Container Diagram.JPG>)
 ## Deployment Diagram
 ![DeploymentDiagram](<DeliverableG1/DeploymentDiagram.JPG>)
+## Risk Storming
+![Risk Storming](<DelivarableG3/image.png>)
 
+Dipilih menggunakan pendekatan konsensus dan pada akhirnya disetujui kalau api gateway memiliki kerentanan karena memberikan semua cors untuk lewat dan juga terdapat beberapa servis yang menghardcode link ke api nya pada controller sehingga rawan.
+Selain itu, Database yang dimiliki oleh fitur Sell dinilai mengandung terlalu banyak informasi dan sebaiknya dipecah untuk meningkatkan sekuritas karena pada database tersebut mengandung elemen listing, order dan juga user.
 
 ## Sell
 
