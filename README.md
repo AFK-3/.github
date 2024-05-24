@@ -49,5 +49,17 @@ Untuk code diagram sell adalah sebagai berikut
 ![Code Diagram - Buy](<DeliverableMAlifAlHakim/CodeDiagram - Buy.png>)
 
 ## ReviewAndRating
+
+### ReviewAndRating Component Diagram
 ![Component Diagram - ReviewAndRating](DeliverableFarrellMHanau/ComponentDiagramReview.png)
+
+### ReviewAndRating Code Diagram
 ![Code Diagram - ReviewAndRating](DeliverableFarrellMHanau/CodeDiagramReview.png)
+
+## Featured Listing
+
+### Featured Listing Component Diagram
+![Featured Listing - Component Diagram](<DeliverableRafi/Featured Listing - Component Diagram.png>)
+
+### Featured Listing Code Diagram
+![Featured Listing - Code Diagram](<DeliverableRafi/Featured Listing - Code Diagram.png>)
