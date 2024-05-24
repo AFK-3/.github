@@ -43,3 +43,12 @@ Untuk code diagram sell adalah sebagai berikut
 
 ### Buy Code Diagram
 ![Code Diagram - Buy](<DeliverableMAlifAlHakim/CodeDiagram - Buy.png>)
+
+
+## Featured Listing
+
+### Buy Component Diagram
+![Component Diagram - Buy](<DeliverableRafi/Featured Listing - Component Diagram.png>)
+
+### Buy Code Diagram
+![Code Diagram - Buy](<DeliverableRafi/Featured Listing - Code Diagram.png>)
