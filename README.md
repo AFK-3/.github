@@ -6,6 +6,10 @@
 ![Container Diagram](<DeliverableG1/Container Diagram.JPG>)
 ## Deployment Diagram
 ![DeploymentDiagram](<DeliverableG1/DeploymentDiagram.JPG>)
+
+## Future Architecture 
+![FutureArchitecture](<DeliverableG2/FutureDiagram.png>)
+
 ## Risk Storming
 ![Risk Storming](<DelivarableG3/image.png>)
 
