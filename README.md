@@ -14,3 +14,11 @@
 
 ### Payment Component Diagram
 ![PaymentComponentDiagram](<DeliverableAdrian/PaymentComponentDiagram.png>)
+
+## Buy
+
+### Buy Component Diagram
+![Component Diagram - Buy](<DeliverableMAlifAlHakim/ComponentDiagram - Buy.png>)
+
+### Buy Code Diagram
+![Code Diagram - Buy](<DeliverableMAlifAlHakim/CodeDiagram - Buy.png>)
